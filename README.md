@@ -24,6 +24,10 @@
 <hr />
 <img alt="Marvel GIF" width="350" height="160" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
 
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=kar137&color=blue)
+
 <div align="center">
 <h3>Connect with me:</h3>
 <p>
@@ -57,6 +61,8 @@
 <a href="https://github.com/kar137">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" />
 </a>
+<br /><br />
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kar137&theme=react-dark)  
 </div>
 
 <hr />
