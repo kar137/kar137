@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" />
 </a>
 <br /><br />
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=kar137&theme=react-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark)  
 </div>
 
 <hr />
