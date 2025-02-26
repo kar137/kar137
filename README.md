@@ -9,7 +9,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
 
