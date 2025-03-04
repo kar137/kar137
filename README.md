@@ -19,7 +19,7 @@
 
 - 🏆 Favorite Quote: "If there’s one thing I’ve proven, it’s that you can count on me to pleasure myself." - **Tony Stark**
 
-- ⌨️ Average Typing speed: **45 WPM**
+- ⌨️ Average Typing speed: **50 WPM**
 
 <hr />
 <img alt="Marvel GIF" width="350" height="160" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
