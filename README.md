@@ -49,6 +49,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,tailwindcss,postgresql,mysql,sqlite,anaconda,git,github&perline=6)](https://skillicons.dev)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-39C5BB?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" />
+</p>
+
 <hr />
 
 <div align="center">
