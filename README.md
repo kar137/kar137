@@ -44,7 +44,7 @@
 <br /><br /><br />
 
 <hr />
-<img alt="coding" align="right" width="400" height="200" src="https://64.media.tumblr.com/51eb31aa08749f29a339281e2cf33133/tumblr_p8kvhnKXHJ1wua17to2_540.gifv" />
+<img alt="coding" align="right" width="400" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,tailwindcss,postgresql,mysql,sqlite,anaconda,git,github&perline=8)](https://skillicons.dev)
