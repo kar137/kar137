@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
-<h3 align="center">Software Development Engineer | AI/ML Enthusiast</h3>
+<h3 align="center">Backend Developer | AI/ML Enthusiast</h3>
 
 <img alt="Marvel GIF" align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
@@ -9,11 +9,11 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
 
-- 💬 Ask me about **JavaScript, Python, or anything Marvel-related!**
+- 💬 Ask me about **Python, Javascript or anything Marvel-related!**
 
 - 📫 Reach me at **bistak297@gmail.com**
 
@@ -44,7 +44,7 @@
 <br /><br /><br />
 
 <hr />
-<img alt="coding" align="right" width="380" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
+<img alt="coding" align="right" width="360" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,tailwindcss,postgresql,mysql,sqlite,anaconda,git,github&perline=8)](https://skillicons.dev)
