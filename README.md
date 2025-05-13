@@ -71,7 +71,13 @@
 </a>
 <br /><br />
 <a href="https://github.com/kar137">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html" />
+</a>
+<br /><br />
+<a href="https://github.com/kar137">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" 
+</a>
+
 </div>
 
 <hr />
