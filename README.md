@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
 
-- 💬 Ask me about **Python, Javascript or anything Marvel-related!**
+- 💬 Ask me about **Python, Javascript or anything Tech-related!**
 
 - 📫 Reach me at **bistak297@gmail.com**
 
@@ -47,14 +47,13 @@
 <img alt="coding" align="right" width="360" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,flask,django,tailwindcss,postgresql,mysql,sqlite,anaconda,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,fastapi,flask,tailwindcss,bootstrap,postgresql,mysql,sqlite,docker,anaconda,git,github,bash,md,postman,sklearn,powershell,&perline=8)](https://skillicons.dev)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><br>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" /> 
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Beautiful%20Soup-39C5BB?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" />
 </p>
@@ -71,7 +70,10 @@
 </a>
 <br /><br />
 <a href="https://github.com/kar137">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html" />
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html&card_width=400&card_height=200" 
+  />
 </a>
 <br /><br />
 <a href="https://github.com/kar137">
