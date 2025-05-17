@@ -7,6 +7,10 @@
   <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
     <img src="https://img.shields.io/twitter/url?style=social&label=Follow%20%40KaranBista47908&url=https%3A%2F%2Ftwitter.com%2FKaranBista47908" alt="Twitter">
   </a>
+  &nbsp;
+  <a>
+    <img src="https://img.shields.io/endpoint?url=https://kar137.github.io/status-badge/status.json" alt="status">
+  </a>
 </p>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
