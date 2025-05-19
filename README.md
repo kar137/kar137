@@ -9,7 +9,7 @@
   </a>
   &nbsp;
   <a>
-    <img src="https://img.shields.io/endpoint?url=https://kar137.github.io/status-badge/status.json" alt="status">
+    <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kar137/status-badge/main/status.json&rand=123" alt="status">
   </a>
 </p>
 
