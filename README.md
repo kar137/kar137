@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
-<h3 align="center">Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Software Engineer (Backend & AI/ML Focus)</h3>
 
 <img alt="Marvel GIF" align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
 
