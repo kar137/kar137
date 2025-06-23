@@ -11,6 +11,9 @@
   <a>
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kar137/status-badge/main/status.json&rand=123" alt="status">
   </a>
+  <a href="https://user-badge.committers.top/nepal/kar137">
+  <img src="https://user-badge.committers.top/nepal/kar137.svg" alt="committers.top badge">
+  </a>
 </p>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
@@ -64,32 +67,33 @@
 
 <hr />
 
-<div align="center">
-<a href="https://github.com/kar137">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kar137&theme=tokyonight" />
-</a>  
-<br /><br />
-<a href="https://github.com/kar137">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" />
-</a>
-<br /><br />
-<a href="https://github.com/kar137">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html&card_width=400&card_height=200" 
-  />
-</a>
-<br /><br />
-<a href="https://github.com/kar137">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" 
-</a>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/kar137">
+    <img src="https://github-readme-stats.vercel.app/api?username=kar137&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/kar137">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" />
+  </a>
+</div>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/kar137">
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html&card_width=400&card_height=200" 
+    />
+  <a href="https://github.com/kar137">
+    <img 
+      align="center" 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" 
+      width="600" 
+      alt="GitHub activity graph for kar137"
+    />
+  </a>
 </div>
 
 <hr />
 
-<div align="center">
-  <a href="https://holopin.io/@karandevx11">
-    <img src="https://holopin.me/karandevx11" alt="An image of @karandevx11's Holopin badges, which is a link to view their full Holopin profile" />
-  </a>
-</div>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kar137&theme=radical&no-frame=false&no-bg=false&margin-w=4)
