@@ -69,10 +69,10 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://github.com/kar137">
-    <img src="https://github-readme-stats.vercel.app/api?username=kar137&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kar137&theme=tokyonight" width="400"/>
   </a>
   <a href="https://github.com/kar137">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" width="450 />
   </a>
 </div>
 
@@ -86,7 +86,7 @@
     <img 
       align="center" 
       src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" 
-      width="600" 
+      width="460" 
       alt="GitHub activity graph for kar137"
     />
   </a>
