@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kar137/status-badge/main/status.json&rand=123" alt="status">
   </a>
   <a href="https://user-badge.committers.top/nepal/kar137">
-  <img src="https://user-badge.committers.top/nepal/kar137.svg" alt="committers.top badge">
+  <img src="https://user-badge.committers.top/nepal_private/kar137.svg" alt="committers.top badge">
   </a>
 </p>
 
