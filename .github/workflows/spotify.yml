@@ -1,0 +1,22 @@
+name: Update Spotify Status
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Runs every 5 minutes
+  workflow_dispatch:
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: khanhas/spotify-github-profile@main
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your-email@example.com"
+          git add .
+          git commit -m "Update Spotify Status"
+          git push

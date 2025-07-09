@@ -14,6 +14,9 @@
   <a href="https://user-badge.committers.top/nepal/kar137">
   <img src="https://user-badge.committers.top/nepal_private/kar137.svg" alt="committers.top badge">
   </a>
+  <a href="https://open.spotify.com/user/31uas27hiifg2wmzf6dlamdswygi">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false" width="350" alt="Spotify Now Playing">
+  </a>
 </p>
 
 - 🌱 I’m currently learning **AI and Machine Learning**
