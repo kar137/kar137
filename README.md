@@ -15,7 +15,7 @@
   <img src="https://user-badge.committers.top/nepal_private/kar137.svg" alt="committers.top badge">
   </a>
   <a href="https://open.spotify.com/user/31uas27hiifg2wmzf6dlamdswygi">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false" width="350" alt="Spotify Now Playing">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=novatorem&bar_color=1DB954&bar_color_cover=false&background_color=0d1117&border_radius=8" width="200" alt="Spotify Now Playing" style="vertical-align:middle;margin-left:10px;box-shadow:0 0 8px #1DB95455">
   </a>
 </p>
 
