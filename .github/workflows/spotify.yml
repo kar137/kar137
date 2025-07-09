@@ -7,8 +7,8 @@ jobs:
   update-spotify:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: khanhas/spotify-github-profile@main
+      - uses: actions/checkout@v4
+      - uses: kittinan/spotify-github-profile@master  # ← Changed to master branch
         with:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
