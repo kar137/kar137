@@ -32,7 +32,8 @@
 
 - ⌨️ Average Typing speed: <a href="https://drive.google.com/file/d/1u3KQKbXH78Nk2O4H0gUbVQ_0HdaAVqAd/view?usp=sharing">**50+ WPM**</a>
 
-<hr />
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <img alt="Marvel GIF" width="350" height="160" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kar137&color=blue)
@@ -54,50 +55,232 @@
 
 <br /><br /><br />
 
-<hr />
-<img alt="coding" align="right" width="360" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
-<h3 align="left">Languages and Tools:</h3>
+![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,fastapi,flask,tailwindcss,bootstrap,postgresql,mysql,sqlite,docker,anaconda,git,github,bash,md,postman,sklearn,powershell,&perline=8)](https://skillicons.dev)
+<img alt="coding" align="left" width="360" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-39C5BB?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Beautiful Soup" />
-</p>
+<!-- Clear float for layout fix -->
+<br clear="left" />
+<br>
+<details>
+  <summary><b>MY SKILLS</b></summary>
+  <div align="center">
+    <i>Technologies I work with, ordered by proficiency (highest to lowest)</i>
+  </div>
+  
+  <!-- Languages -->
+  <div align="center"><h3>Languages</h3></div>
+  <table align="center" width="500px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Python</b></sup></span><br />
+          <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>JavaScript</b></sup></span><br />
+          <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>HTML5</b></sup></span><br />
+          <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>CSS3</b></sup></span><br />
+          <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Java</b></sup></span><br />
+          <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Bash</b></sup></span><br />
+          <img alt="Bash" title="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<hr />
+  <!-- Web & Backend -->
+  <div align="center"><h3>Frameworks & Libraries</h3></div>
+  <table align="center" width="500px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Django</b></sup></span><br />
+          <img alt="Django" title="Django" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Django REST</b></sup></span><br />
+          <img alt="Django REST" title="Django REST Framework" width="50px" src="https://www.django-rest-framework.org/img/logo.png" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>FastAPI</b></sup></span><br />
+          <img alt="FastAPI" title="FastAPI" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Flask</b></sup></span><br />
+          <img alt="Flask" title="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Tailwind</b></sup></span><br />
+          <img alt="Tailwind" title="Tailwind" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+        </td>
+      </tr>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Bootstrap</b></sup></span><br />
+          <img alt="Bootstrap" title="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Streamlit</b></sup></span><br />
+          <img alt="Streamlit" title="Streamlit" width="50px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/kar137">
-    <img src="https://github-readme-stats.vercel.app/api?username=kar137&theme=tokyonight" width="350"/>
-  </a>
-  <a href="https://github.com/kar137">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=tokyonight" width="430 />
-  </a>
+  <!-- Databases -->
+  <div align="center"><h3>Databases</h3></div>
+  <table align="center" width="400px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>PostgreSQL</b></sup></span><br />
+          <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>MySQL</b></sup></span><br />
+          <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>SQLite</b></sup></span><br />
+          <img alt="SQLite" title="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Data Science -->
+  <div align="center"><h3>Data Science</h3></div>
+  <table align="center" width="500px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Pandas</b></sup></span><br />
+          <img alt="Pandas" title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Jupyter</b></sup></span><br />
+          <img alt="Jupyter" title="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>NumPy</b></sup></span><br />
+          <img alt="NumPy" title="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>scikit-learn</b></sup></span><br />
+          <img alt="scikit-learn" title="scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- DevOps & Tools -->
+  <div align="center"><h3>DevOps & Tools</h3></div>
+  <table align="center" width="500px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Docker</b></sup></span><br />
+          <img alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Git</b></sup></span><br />
+          <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>GitHub</b></sup></span><br />
+          <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Postman</b></sup></span><br />
+          <img alt="Postman" title="Postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Anaconda</b></sup></span><br />
+          <img alt="Anaconda" title="Anaconda" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- IDEs -->
+  <div align="center"><h3>IDEs & Code Editors</h3></div>
+  <table align="center" width="500px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>VS Code</b></sup></span><br />
+          <img alt="VS Code" title="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>PyCharm</b></sup></span><br />
+          <img alt="PyCharm" title="PyCharm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>NetBeans</b></sup></span><br />
+          <img alt="NetBeans" title="NetBeans" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Visual Studio</b></sup></span><br />
+          <img alt="Visual Studio" title="Visual Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- Operating Systems -->
+  <div align="center"><h3>Operating Systems</h3></div>
+  <table align="center" width="300px">
+    <tbody>
+      <tr valign="top">
+        <td width="80px" align="center">
+          <span><sup><b>Windows</b></sup></span><br />
+          <img alt="Windows" title="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+        </td>
+        <td width="80px" align="center">
+          <span><sup><b>Linux</b></sup></span><br />
+          <img alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+<details>
+  <summary><b><span style="font-size: 100px;">MY STATS</span></b></summary>
+
+<div align="center">
+
+<!-- Stats Grid -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-bottom: 1rem;">
+  <!-- GitHub Stats -->
+  <img height="175px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kar137&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_color=44475a&count_private=true" />
+  
+  <!-- Streak Stats -->
+  <img height="175px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=radical&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=bd93f9&sideLabels=f8f8f2&dates=6272a4" />
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/kar137">
-    <img 
-      align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=tokyonight&hide=html&card_width=370&card_height=200" 
-    />
-  <a href="https://github.com/kar137">
-    <img 
-      align="center" 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark" 
-      width="440" 
-      alt="GitHub activity graph for kar137"
-    />
-  </a>
+<!-- Languages and Activity -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+  <!-- Top Languages -->
+  <img height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&border_color=44475a&hide=html,css" />
+  
+  <!-- Activity Graph -->
+  <img height="200px" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark&bg_color=0d1117&title_color=ff79c6&color=bd93f9&line=ff79c6&point=f8f8f2" />
 </div>
 
-<hr />
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=kar137&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Trophies -->
+<h3>🏆 GitHub Trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=kar137&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</details>
