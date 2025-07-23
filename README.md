@@ -266,15 +266,11 @@
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-bottom: 1rem;">
   <!-- GitHub Stats -->
   <img height="175px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kar137&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_color=44475a&count_private=true" />
-  
-  <!-- Streak Stats -->
-  <img height="175px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=radical&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=bd93f9&sideLabels=f8f8f2&dates=6272a4" />
-</div>
 
 <!-- Languages and Activity -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
   <!-- Top Languages -->
-  <img height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&border_color=44475a&hide=html,css" />
+  <img height="220px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar137&layout=compact&theme=radical&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&border_color=44475a&hide=html,css" />
   
   <!-- Activity Graph -->
   <img height="200px" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kar137&theme=react-dark&bg_color=0d1117&title_color=ff79c6&color=bd93f9&line=ff79c6&point=f8f8f2" />
@@ -284,3 +280,7 @@
 <h3>🏆 GitHub Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=kar137&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </details>
+<br>
+<!-- Streak Stats -->
+  <img height="175px" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kar137&theme=radical&background=0d1117&ring=ff79c6&fire=ff79c6&currStreakNum=f8f8f2&sideNums=bd93f9&sideLabels=f8f8f2&dates=6272a4" />
+</div>
