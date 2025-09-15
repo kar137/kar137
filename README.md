@@ -1,7 +1,6 @@
-<h1 align="center">Hi there! 👋 I'm Karan Bista</h1>
-<h3 align="center">Software Developer (Backend & AI/ML)</h3>
+#  Hey, I’m Karan Bista
 
-<img alt="Marvel GIF" align="right" width="400" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHoxa2tiMGh6cG04YjUxYXc0MGg5eDRmMWcwenJ4anE1YW1tdDlrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MUlmRFnTQxwJ2/giphy.gif">
+**AI & Machine Learning Enthusiast | Python & Web Developer | CSE Student**
 
 <p align="left">
   <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
@@ -20,23 +19,25 @@
 </a>
 </p>
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 👯 I’m looking to collaborate on **Web Development and Open Source Projects**
+## 💡 About Me
+*Exploring the frontiers of AI, building innovative projects, and turning ideas into code. Always learning, always experimenting.*
 
-- 💬 Ask me about **Python, Javascript or anything Tech-related!**
+![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🌟 Currently
+- 🧠 Diving into **NLP, Neural Networks & Computer Vision**  
+- 💻 Building and enhancing **web apps with React, FastAPI & Tailwind CSS**
+  
+![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 📫 Reach me at **bistak297@gmail.com**
+## ⌨️ Typing Speed:  [50+ WPM](https://drive.google.com/file/d/1u3KQKbXH78Nk2O4H0gUbVQ_0HdaAVqAd/view?usp=sharing)
+  
+![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🏆 Favorite Quote: "If there’s one thing I’ve proven, it’s that you can count on me to pleasure myself." - **Tony Stark**
-
-- ⌨️ Average Typing speed: <a href="https://drive.google.com/file/d/1u3KQKbXH78Nk2O4H0gUbVQ_0HdaAVqAd/view?usp=sharing">**50+ WPM**</a>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<img alt="Marvel GIF" width="350" height="160" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZodWJnbGVobGVrbjNqaGVsYmV4ZDV4MnZsM3B1NjRqdGl4NHlwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N1DlKzpUcCy1xMVO5D/giphy.gif">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kar137&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kar137&color=blue" alt="Profile Views" />
+</p>
 
 <div align="center">
 <h3>Connect with me:</h3>
@@ -53,15 +54,15 @@
 </p>
 </div>
 
-<br /><br /><br />
 
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img alt="coding" align="left" width="360" height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif" />
 
 <!-- Clear float for layout fix -->
+
 <br clear="left" />
-<br>
+
+*Technologies I work with to build web and AI/ML projects.*
 <details>
   <summary><b>MY SKILLS</b></summary>
   <div align="center">
@@ -257,11 +258,13 @@
     </tbody>
   </table>
 </details>
+
+*GitHub activity and profile insights at a glance.*
+
 <details>
   <summary><b><span style="font-size: 100px;">MY STATS</span></b></summary>
 
 <div align="center">
-
 <!-- Stats Grid -->
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin-bottom: 1rem;">
   <!-- GitHub Stats -->
