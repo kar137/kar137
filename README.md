@@ -27,11 +27,7 @@
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## 🌟 Currently
 - 🧠 Diving into **NLP, Neural Networks & Computer Vision**  
-- 💻 Building and enhancing **web apps with React, FastAPI & Tailwind CSS**
-  
-![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## ⌨️ Typing Speed:  [50+ WPM](https://drive.google.com/file/d/1u3KQKbXH78Nk2O4H0gUbVQ_0HdaAVqAd/view?usp=sharing)
+- 💻 Building and enhancing **web apps with React, Django, FastAPI & Tailwind CSS**
   
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
