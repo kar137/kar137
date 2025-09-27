@@ -34,7 +34,18 @@
   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+Total Time: 4 hrs 39 mins
+
+Python       2 hrs 3 mins    ░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓   44.19 %
+Other        1 hr 54 mins    ░░░░░░░░░░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓   41.05 %
+CSV          22 mins         ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   08.03 %
+Git Config   18 mins         ░▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   06.72 %
+Markdown     0 secs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   00.01 %
+```
+
+<!--END_SECTION:waka-->
   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   * SYSTEM STATUS: ONLINE • LAST SYNC: REAL-TIME*
 
