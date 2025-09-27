@@ -47,7 +47,6 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  * SYSTEM STATUS: ONLINE • LAST SYNC: REAL-TIME*
 
 </div>
 
