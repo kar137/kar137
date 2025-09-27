@@ -1,6 +1,6 @@
 #  Hey, I’m Karan Bista
 
-**AI & Machine Learning Enthusiast | Python & Web Developer | CSE Student**
+**AI & Machine Learning Enthusiast | Python Developer | CSE Student**
 
 <p align="left">
   <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
@@ -20,16 +20,19 @@
 </p>
 
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+## 🌟 What I'm Up To
 
-## 💡 About Me
-*Exploring the frontiers of AI, building innovative projects, and turning ideas into code. Always learning, always experimenting.*
+🗺️ **Current Quest**: Exploring the realms of **NLP** & **Deep Learning**  
+⚔️ **Weapons**: Python, PyTorch, TensorFlow, Transformers, LLM  
+🏰 **Side Missions**: Crafting full-stack experiences with **Django + FastAPI**  
 
-![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 🌟 Currently
-- 🧠 Diving into **NLP, Neural Networks & Computer Vision**  
-- 💻 Building and enhancing **web apps with React, Django, FastAPI & Tailwind CSS**
-  
-![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
+
+### 📊 Live Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kar137&color=blue" alt="Profile Views" />
@@ -60,7 +63,7 @@
 
 *Technologies I work with to build web and AI/ML projects.*
 <details>
-  <summary><b>MY SKILLS</b></summary>
+  <summary><b>MY SKILLS  [Click Here]</b></summary>
   <div align="center">
     <i>Technologies I work with, ordered by proficiency (highest to lowest)</i>
   </div>
@@ -258,7 +261,7 @@
 *GitHub activity and profile insights at a glance.*
 
 <details>
-  <summary><b><span style="font-size: 100px;">MY STATS</span></b></summary>
+  <summary><b><span style="font-size: 100px;">MY STATS  [Click Here]</span></b></summary>
 
 <div align="center">
 <!-- Stats Grid -->
