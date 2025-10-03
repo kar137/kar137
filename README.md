@@ -1,4 +1,4 @@
-#  Hey, I’m Karan Bista
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="28" /> Hey, I’m Karan Bista
 
 **AI & Machine Learning Enthusiast | Python Developer | CSE Student**
 
@@ -28,8 +28,7 @@
 
 ---
 
-### Live Coding ACTIVITY ⚡
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+### Live Coding Activity ⚡
   
   <!--START_SECTION:waka-->
 
@@ -44,7 +43,6 @@ Markdown     15 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
 
 ---
