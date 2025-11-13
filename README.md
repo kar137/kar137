@@ -15,8 +15,12 @@
   </a>
   <br>
   <a href="https://open.spotify.com/user/31uas27hiifg2wmzf6dlamdswygi">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=novatorem&bar_color=0066FF&bar_color_cover=true&background_color=ffffff&border_radius=6&border_color=00AAFF" width="200" alt="Spotify Now Playing" style="vertical-align:middle;margin-left:10px;box-shadow:0 0 15px #0066FF33, 0 0 5px #00AAFF55;border:1px solid #00AAFF;filter:drop-shadow(0 2px 4px #0066FF40);transition:all 0.3s ease;">
-</a>
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false&v=2" 
+      alt="Spotify Now Playing"
+      width="350"
+      style="border-radius:12px;box-shadow:0 0 20px #53b14f44, 0 0 10px #1DB95455;transition:all 0.3s ease;vertical-align:middle;">
+  </a>
 </p>
 
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
