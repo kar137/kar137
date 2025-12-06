@@ -37,13 +37,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 20 mins
+Total Time: 11 hrs 21 mins
 
-Other              6 hrs 42 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   71.80 %
-Markdown           56 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Java               35 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Bash               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Jupyter Notebook   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Other              8 hrs 43 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   76.84 %
+Markdown           56 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+Java               35 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Bash               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Jupyter Notebook   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
