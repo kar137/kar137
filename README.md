@@ -14,20 +14,20 @@
   <img src="https://user-badge.committers.top/nepal_private/kar137.svg" alt="committers.top badge">
   </a>
   <br>
-  <a href="https://open.spotify.com/playlist/7F1QMpucNuAmqQSsMquDCY">
+  <a href="https://open.spotify.com/user/31uas27hiifg2wmzf6dlamdswygi">
   <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=spotify-embed&show_offline=true&recent=true&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false&v=2"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uas27hiifg2wmzf6dlamdswygi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false&v=2"
     alt="Spotify Now Playing"
     width="350"
-    style="border-radius:12px;box-shadow:0 0 20px #53b14f44, 0 0 10px #1DB95455;transition:all 0.3s ease;vertical-align:middle;">
+    style="border-radius:12px;box-shadow:0 0 20px #1DB95455;">
   </a>
 </p>
 
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## 🌟 What I'm Up To
 
-🗺️ **Current Quest**: Exploring the realms of **NLP** & **Deep Learning**  
-⚔️ **Weapons**: Python, PyTorch, TensorFlow, Transformers, LLM  
+🗺️ **Current Quest**: Exploring the realms of **NLP** & **Gen AI**  
+⚔️ **Weapons**: PyTorch, TensorFlow, Transformers, Vector DB, LLM
 🏰 **Side Missions**: Crafting full-stack experiences with **Django + FastAPI**  
 
 ---
