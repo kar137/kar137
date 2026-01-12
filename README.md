@@ -16,12 +16,301 @@
 </p>
 
 ![---------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## 🌟 What I'm Up To
 
-🗺️ **Current Quest**: Exploring the realms of **NLP** & **Gen AI**  
-⚔️ **Weapons**: PyTorch, TensorFlow, Transformers, Vector DB, LLM <br>
-🏰 **Side Missions**: Crafting full-stack experiences with **Django + FastAPI**  
+ <!-- Row 1: Deep Learning & LLMs -->
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🧠 Deep Learning & Research</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>PyTorch</b></sup></span><br />
+                <img alt="PyTorch" title="PyTorch" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>TensorFlow</b></sup></span><br />
+                <img alt="TensorFlow" title="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>JAX</b></sup></span><br />
+                <img alt="JAX" title="JAX" width="35px" src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>CUDA</b></sup></span><br />
+                <img
+                  width="35px" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"
+                  alt="CUDA"
+                />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Triton</b></sup></span><br />
+                <img alt="Triton" title="Triton" width="35px" src="https://avatars.githubusercontent.com/u/102151428?s=200&v=4" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Lightning</b></sup></span><br />
+                <img alt="Lightning" title="PyTorch Lightning" width="35px" src="https://lightning.ai/docs/pytorch/stable/_static/images/logo.png" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Keras</b></sup></span><br />
+                <img alt="Keras" title="Keras" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🤖 LLMs & Transformers</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>HuggingFace</b></sup></span><br />
+                <img alt="HuggingFace" title="HuggingFace" width="35px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Transformers</b></sup></span><br />
+                <img alt="Transformers" title="Transformers" width="35px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>LangChain</b></sup></span><br />
+                <img alt="LangChain" title="LangChain" width="35px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>vLLM</b></sup></span><br />
+                <img alt="vLLM" title="vLLM" width="35px" src="https://avatars.githubusercontent.com/u/130700949?s=200&v=4" />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>DeepSpeed</b></sup></span><br />
+                <img alt="DeepSpeed" title="DeepSpeed" width="35px" src="https://avatars.githubusercontent.com/u/50485866?s=200&v=4" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>PEFT</b></sup></span><br />
+                <img alt="PEFT" title="PEFT/LoRA" width="35px" src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>LlamaIndex</b></sup></span><br />
+                <img alt="LlamaIndex" title="LlamaIndex" width="35px" src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
 
+  <!-- Row 2: MLOps & Production -->
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📊 MLOps & Experimentation</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>W&B</b></sup></span><br />
+                <img alt="Weights & Biases" title="Weights & Biases" width="35px" src="https://wandb.ai/logo.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>MLflow</b></sup></span><br />
+                <img alt="MLflow" title="MLflow" width="35px" src="https://mlflow.org/img/mlflow-black.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>DVC</b></sup></span><br />
+                <img alt="DVC" title="DVC" width="35px" src="https://dvc.org/img/logo-github-readme.png" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Kubeflow</b></sup></span><br />
+                <img alt="Kubeflow" title="Kubeflow" width="35px" src="https://www.kubeflow.org/images/logo.svg" />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Metaflow</b></sup></span><br />
+                <img alt="Metaflow" title="Metaflow" width="35px" src="https://avatars.githubusercontent.com/u/22800682?s=200&v=4" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Airflow</b></sup></span><br />
+                <img alt="Airflow" title="Apache Airflow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Prefect</b></sup></span><br />
+                <img alt="Prefect" title="Prefect" width="35px" src="https://avatars.githubusercontent.com/u/39270919?s=200&v=4" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🚀 Production & Infrastructure</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Docker</b></sup></span><br />
+                <img alt="Docker" title="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Kubernetes</b></sup></span><br />
+                <img alt="Kubernetes" title="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>FastAPI</b></sup></span><br />
+                <img alt="FastAPI" title="FastAPI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Redis</b></sup></span><br />
+                <img alt="Redis" title="Redis" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>PostgreSQL</b></sup></span><br />
+                <img alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Nginx</b></sup></span><br />
+                <img alt="Nginx" title="Nginx" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>GraphQL</b></sup></span><br />
+                <img alt="GraphQL" title="GraphQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Celery</b></sup></span><br />
+                <img alt="Celery" title="Celery" width="35px" src="https://avatars.githubusercontent.com/u/1294892?s=200&v=4" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Row 3: Data & Languages -->
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>📈 Data Processing & Analysis</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>NumPy</b></sup></span><br />
+                <img alt="NumPy" title="NumPy" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Pandas</b></sup></span><br />
+                <img alt="Pandas" title="Pandas" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Scikit-learn</b></sup></span><br />
+                <img alt="Scikit-learn" title="Scikit-learn" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Polars</b></sup></span><br />
+                <img alt="Polars" title="Polars" width="35px" src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark.svg" />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>OpenCV</b></sup></span><br />
+                <img alt="OpenCV" title="OpenCV" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Matplotlib</b></sup></span><br />
+                <img alt="Matplotlib" title="Matplotlib" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Plotly</b></sup></span><br />
+                <img alt="Plotly" title="Plotly" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Spark</b></sup></span><br />
+                <img alt="Spark" title="Apache Spark" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🛠️ Languages & Tools</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Python</b></sup></span><br />
+                <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>C++</b></sup></span><br />
+                <img alt="C++" title="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Go</b></sup></span><br />
+                <img alt="Go" title="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Git</b></sup></span><br />
+                <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+              </td>
+            </tr>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Linux</b></sup></span><br />
+                <img alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Vim</b></sup></span><br />
+                <img alt="Vim" title="Vim" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>VS Code</b></sup></span><br />
+                <img alt="VS Code" title="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Row 4: Cloud -->
+  <table>
+    <tr>
+      <td width="100%" valign="top">
+        <h3>☁️ Cloud & Compute</h3>
+        <table>
+          <tbody>
+            <tr valign="top">
+              <td width="60px" align="center">
+                <span><sup><b>Terraform</b></sup></span><br />
+                <img alt="Terraform" title="Terraform" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>GitHub</b></sup></span><br />
+                <img alt="GitHub" title="GitHub Actions" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>GitLab</b></sup></span><br />
+                <img alt="GitLab" title="GitLab CI/CD" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+              </td>
+              <td width="60px" align="center">
+                <span><sup><b>Vercel</b></sup></span><br />
+                <img alt="Vercel" title="Vercel" width="35px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </table>
+  
 ---
 
 ### Live Coding Activity ⚡
@@ -70,7 +359,7 @@ Bash               57 mins         ▒░░░░░░░░░░░░░░
 
 <br clear="left" />
 
-*Technologies I work with to build web and AI/ML projects.*
+*Technologies I work with to build web projects.*
 <details>
   <summary><b>MY SKILLS  [Click Here]</b></summary>
   <div align="center">
@@ -165,102 +454,6 @@ Bash               57 mins         ▒░░░░░░░░░░░░░░
         <td width="80px" align="center">
           <span><sup><b>SQLite</b></sup></span><br />
           <img alt="SQLite" title="SQLite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Data Science -->
-  <div align="center"><h3>Data Science</h3></div>
-  <table align="center" width="500px">
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><sup><b>Pandas</b></sup></span><br />
-          <img alt="Pandas" title="Pandas" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Jupyter</b></sup></span><br />
-          <img alt="Jupyter" title="Jupyter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>NumPy</b></sup></span><br />
-          <img alt="NumPy" title="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>scikit-learn</b></sup></span><br />
-          <img alt="scikit-learn" title="scikit-learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- DevOps & Tools -->
-  <div align="center"><h3>DevOps & Tools</h3></div>
-  <table align="center" width="500px">
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><sup><b>Docker</b></sup></span><br />
-          <img alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Git</b></sup></span><br />
-          <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>GitHub</b></sup></span><br />
-          <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Postman</b></sup></span><br />
-          <img alt="Postman" title="Postman" width="50px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Anaconda</b></sup></span><br />
-          <img alt="Anaconda" title="Anaconda" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- IDEs -->
-  <div align="center"><h3>IDEs & Code Editors</h3></div>
-  <table align="center" width="500px">
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><sup><b>VS Code</b></sup></span><br />
-          <img alt="VS Code" title="VS Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>PyCharm</b></sup></span><br />
-          <img alt="PyCharm" title="PyCharm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>NetBeans</b></sup></span><br />
-          <img alt="NetBeans" title="NetBeans" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Visual Studio</b></sup></span><br />
-          <img alt="Visual Studio" title="Visual Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-
-  <!-- Operating Systems -->
-  <div align="center"><h3>Operating Systems</h3></div>
-  <table align="center" width="300px">
-    <tbody>
-      <tr valign="top">
-        <td width="80px" align="center">
-          <span><sup><b>Windows</b></sup></span><br />
-          <img alt="Windows" title="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-        </td>
-        <td width="80px" align="center">
-          <span><sup><b>Linux</b></sup></span><br />
-          <img alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
         </td>
       </tr>
     </tbody>
