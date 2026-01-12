@@ -19,7 +19,7 @@
 ## 🌟 What I'm Up To
 
 🗺️ **Current Quest**: Exploring the realms of **NLP** & **Gen AI**  
-⚔️ **Weapons**: PyTorch, TensorFlow, Transformers, Vector DB, LLM
+⚔️ **Weapons**: PyTorch, TensorFlow, Transformers, Vector DB, LLM <br>
 🏰 **Side Missions**: Crafting full-stack experiences with **Django + FastAPI**  
 
 ---
