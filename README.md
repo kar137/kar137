@@ -318,13 +318,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 59 mins
+Total Time: 11 hrs 49 mins
 
-Other         12 hrs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░   80.09 %
-Python        2 hrs 57 mins   ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   19.73 %
-TOML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Ignore List   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other    10 hrs          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   84.71 %
+Python   1 hr 48 mins    ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
 ```
 
 <!--END_SECTION:waka-->
