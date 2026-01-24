@@ -318,10 +318,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 42 mins
+Total Time: 10 hrs 40 mins
 
-Other    7 hrs 27 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░   69.67 %
-Python   3 hrs 14 mins   ▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░   30.33 %
+Other    6 hrs 40 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░   62.55 %
+Python   3 hrs 59 mins   ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   37.45 %
 ```
 
 <!--END_SECTION:waka-->
