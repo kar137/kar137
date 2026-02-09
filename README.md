@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="28" /> Hey, I’m Karan Bista
 
-**AI Tinkerer | ML Researcher | CSE Student**
+**Data Scientist @ Abundant (YC F24) | ML Researcher**
 
 <p align="left">
   <a href="https://x.com/KaranBista47908?t=G1Smnmd7gAb_4vPBRYeR_Q&s=09">
