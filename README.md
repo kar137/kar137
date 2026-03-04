@@ -318,13 +318,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 16 mins
+Total Time: 11 hrs 31 mins
 
-Python       5 hrs 8 mins          ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   45.63 %
-Other        2 hrs 16 mins         ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   20.16 %
-TOML         1 hr 8 mins           ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-Bash         54 mins               ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-TypeScript   41 mins               ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Python       5 hrs 19 mins         ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   46.20 %
+Markdown     1 hr 43 mins          ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Other        1 hr 18 mins          ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+TOML         1 hr 14 mins          ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Bash         57 mins               ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
 ```
 
 <!--END_SECTION:waka-->
