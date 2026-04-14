@@ -318,13 +318,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 49 mins
+Total Time: 19 hrs 51 mins
 
-Other        9 hrs 46 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   76.15 %
-Python       1 hr 30 mins          ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown     1 hr 1 min            ▓▓░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Docker       10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bash         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Other         15 hrs 3 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   75.83 %
+Python        2 hrs 24 mins         ▓▓▓░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Markdown      1 hr 5 mins           ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+JSON          32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Bash          15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
