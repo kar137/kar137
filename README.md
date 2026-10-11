@@ -1,6 +1,6 @@
 I'm a research engineer @ Abundant (YC), building agent benchmarks, evaluation harnesses, and containerized RL environments for research AI labs.
 
-I'm mostly interested in agent evaluation, failure analysis, and reinforcement learning. I also contribute to open-source agent infrastructure, including [Harbor](https://github.com/harbor-framework/harbor), [SkyRL](https://github.com/NovaSky-AI/SkyRL), [slime](https://github.com/THUDM/slime), [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) and [OpenEnv](https://github.com/huggingface/OpenEnv).
+I'm mostly interested in agent evaluation, failure analysis, and reinforcement learning. I also contribute to open-source agent infrastructure, including [Harbor](https://github.com/harbor-framework/harbor) and [OpenEnv](https://github.com/huggingface/OpenEnv).
 
 Beyond research, I've built ML systems end to end, from data pipelines and model training to production serving, monitoring, and MLOps. That includes LLM applications and RAG, recommender systems, and deep learning models for language and vision.
 
