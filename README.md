@@ -1,4 +1,4 @@
-I'm a research engineer, building agent benchmarks, evaluation harnesses, and containerized RL environments for research AI labs.
+I'm a research engineer @ Abundant (YC), building agent benchmarks, evaluation harnesses, and containerized RL environments for research AI labs.
 
 I'm mostly interested in agent evaluation, failure analysis, and reinforcement learning. I also contribute to open-source agent infrastructure, including [Harbor](https://github.com/harbor-framework/harbor) and [OpenEnv](https://github.com/huggingface/OpenEnv).
 
